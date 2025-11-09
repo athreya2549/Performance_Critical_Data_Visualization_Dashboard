@@ -10,9 +10,8 @@ This README documents how to run, build, and extend the project, explains recent
 - Live demo: (if deployed) — replace URL below
 - Project root: `src/`
 
-(Replace the URL below with your deployment, if any):
 
-Live demo: https://your-vercel-url-here
+Live demo: https://performance-critical-data-visualiza-alpha.vercel.app/
 
 ---
 
