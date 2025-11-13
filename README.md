@@ -7,7 +7,7 @@ This README documents how to run, build, and extend the project, explains recent
 ---
 
 ## Quick links
-- Live demo: (if deployed) — replace URL below
+
 - Project root: `src/`
 
 
